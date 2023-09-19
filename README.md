@@ -6,7 +6,7 @@ python -m venv venv для создания вертуфльного акруж�
 
 source venv/Scripts/Activate для активации вертуального акружения
 
-pip insall -r requirments.txt для устоновки нужных пакетов
+pip install -r requirments.txt для устоновки нужных пакетов
 
 python manage.py runserver --settings=config.settings.local для запуска сервера в режиме отладки
 
