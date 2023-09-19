@@ -4,7 +4,7 @@ git clone https://github.com/sultangame/history.git для скопирован�
 
 python -m venv venv для создания вертуфльного акружения
 
-source venv/Scripts/Activate для активации вертуфльного акружения
+source venv/Scripts/Activate для активации вертуального акружения
 
 pip insall -r requirments.txt для устоновки нужных пакетов
 
